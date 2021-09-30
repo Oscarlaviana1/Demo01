@@ -7,7 +7,6 @@ public class Main {
 		int b = 8;
 		int c = a + b;
 		
-		System.out.println("Hello World!");
 		
 		System.out.println("if you add " + a + " to " + b +
 				" you'll get " + c);
